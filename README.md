@@ -1,0 +1,2 @@
+# AnimationDemos
+MSc Animation Assignments
